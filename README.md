@@ -21,5 +21,5 @@ Then, run the code. The program will take input from the microphone, process it 
 If you receive "Unknown value error" message, that could be due to the Speech Recognition API not being able to recognize your voice, and you may need to speak clearer. Additionally, if you receive an error involving the OpenAI API, make sure that your API key has been properly added to your .env file and that your file is in the correct directory.
 
 
-#This is bugged
-Currently there is an issue that the bot is stuck in a loop
+# This is bugged
+Currently there is an issue that the bot is stuck in a loop.
